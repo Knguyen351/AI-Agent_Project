@@ -1,8 +1,8 @@
 # CIS 3400 – Advanced Programming
 ## Project 2: Python Application Development
 
-**Student Name:** [Your Name]  
-**Project Title:** [Application Name]  
+**Student Name:** Kevin Nguyen  
+**Project Title:** AI Job Agent
 **Course:** CIS 3400 – Advanced Programming  
 **Final Presentation:** December 8, 2026
 
@@ -10,7 +10,7 @@
 
 ## 1. Project Overview
 
-**Application Name:** [Name]
+**Application Name:** Job Agent
 
 **Project Option:** [Predictive ML / Database-Enabled / AI-Powered Application]
 
