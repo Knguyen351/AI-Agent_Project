@@ -1,7 +1,6 @@
 @echo off
 setlocal
 cd /d "%~dp0"
-set "CAREER_LOCAL_SIGNUP=1"
 if not exist ".venv\Scripts\python.exe" (
     py -3.12 -m venv .venv
     if errorlevel 1 goto failed
